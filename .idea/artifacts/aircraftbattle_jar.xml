@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="aircraftbattle:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/aircraftbattle_jar</output-path>
+    <root id="archive" name="aircraftbattle.jar">
+      <element id="module-output" name="aircraftbattle" />
+    </root>
+  </artifact>
+</component>
